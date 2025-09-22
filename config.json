@@ -1,0 +1,5 @@
+{
+  "log_directory": "./logs",
+  "archive_directory": "./archives",
+  "retention_days": 7
+}
